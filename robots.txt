@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+
+# This site is currently staged on GitHub Pages and intentionally
+# blocked from search engines. Remove the "Disallow: /" line above
+# and replace it with "Allow: /" once the site is live on
+# muafahgroup.com.
